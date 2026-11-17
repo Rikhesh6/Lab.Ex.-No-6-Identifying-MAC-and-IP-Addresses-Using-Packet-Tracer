@@ -56,6 +56,9 @@ ________________________________________
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/198989fe-80b3-41a7-b490-41af58725eec" />
 
 •	Tables showing MAC/IP changes through each device<br>
+<img width="923" height="243" alt="image" src="https://github.com/user-attachments/assets/5535f019-83f9-428e-b32b-8879ebc151f8" />
+<img width="935" height="355" alt="image" src="https://github.com/user-attachments/assets/312fc6d6-af6b-4fb0-aba3-31c5fb511da2" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
